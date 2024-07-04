@@ -1,4 +1,4 @@
-<h1 align="center">Hallo, Ich bin Jack oder ElitE oder A_l33t_7i7s</h1>
+<h1 align="center">$whoami</h1>
 <h3 align="left"> About Me:</h3>
 <p align="left">
   I am a Highschool Grad, Junior WebDev, Blue Team Practioner, In progess of getting a CCNA & Occasional Bug Bounty Hunter
