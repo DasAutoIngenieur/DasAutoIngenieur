@@ -10,7 +10,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Jack&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+![](A man who never eats porkbuns is never a whole man)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Jack&icon=3&color=2)](https://visitcount.itsvg.in)
