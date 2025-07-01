@@ -1,5 +1,5 @@
 # 💫 About Me:
-👨‍💻Employed DevOps Engineer @ AstroByte & Working Towards DevSecOps <br>🔭Currently working on CVE Research & BugBounty Hunting<br>🚩Aiming for a Security+ Certificate & CyberDefenders<br>📍Aiming for a Junior Security Operations Center Analyst Job
+👨‍💻Employed DevOps Automation Engineer @ AstroByte & Working Towards DevSecOps <br>🔭Currently working on CVE Research & BugBounty Hunting<br>🚩Aiming for a Security+ Certificate & CyberDefenders<br>📍Aiming for a Junior Security Operations Center Analyst Job
 
 
 # 💻 Tech Stack:
