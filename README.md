@@ -1,5 +1,5 @@
 # 💫 About Me:
-👨‍💻Junior WebDev & Aspiring Network Engineer<br>🔭Currently working on Web Exploitation<br>🚩Aiming for a CCNA, Then a Security+ Cert<br>📍Dream Job: Security Network Analyst (or similar titles)
+👨‍💻Employed DevOps Engineer @ AstroByte & Working Towards DevSecOps <br>🔭Currently working on CVE Research & BugBounty Hunting<br>🚩Aiming for a Security+ Certificate & CyberDefenders<br>📍Aiming for a Junior Security Operations Center Analyst Job
 
 
 # 💻 Tech Stack:
