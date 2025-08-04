@@ -1,7 +1,7 @@
 # 💫 About Me:
 👨‍💻 Former DevOps Automation Engineer @ AstroByte & Working Towards DevSecOps <br>🔭Currently working on CVE Research & BugBounty Hunting<br>🚩Aiming for a Security+ Certificate & CyberDefenders<br>📍Aiming for a Junior Security Operations Center Analyst Job
 
-![](https://komarev.com/ghpvc/?username=DasAutoIngenieur&color=blueviolet&style=for-the-badge)
+![](https://komarev.com/ghpvc/?username=DasAutoIngenieur&color=blueviolet&style=for-the-badge&base=1337)
 # 💻 Tech Stack:
 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) <br> 
@@ -16,6 +16,8 @@
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
 ``However Flexible with any stack 💪``
+> However Flexible with any stack 💪
+
 # 📊GitHub Stats :
 ![](https://github-readme-stats.vercel.app/api?username=DasAutoIngenieur&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=DasAutoIngenieur&theme=radical&hide_border=false)<br/>
