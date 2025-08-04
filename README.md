@@ -18,6 +18,7 @@
 <strong> `` However Flexible with any stack 💪 `` </strong>
 `` However Flexible with any stack 💪 ``
 > However Flexible with any stack 💪
+<p style="font-size: 1em;">`This is a larger paragraph text.`</p>
 
 # 📊GitHub Stats :
 ![](https://github-readme-stats.vercel.app/api?username=DasAutoIngenieur&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
