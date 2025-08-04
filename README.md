@@ -16,6 +16,7 @@
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
 <strong> `` However Flexible with any stack 💪 `` </strong>
+`` However Flexible with any stack 💪 ``
 > However Flexible with any stack 💪
 
 # 📊GitHub Stats :
