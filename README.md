@@ -2,6 +2,8 @@
 👨‍💻 Former DevOps Automation Engineer @ AstroByte & Working Towards DevSecOps <br>🔭Currently working on CVE Research & BugBounty Hunting<br>🚩Aiming for a Security+ Certificate & CyberDefenders<br>📍Aiming for a Junior Security Operations Center Analyst Job
 
 ![](https://komarev.com/ghpvc/?username=DasAutoIngenieur&color=blueviolet&style=for-the-badge&base=120)
+
+<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=4457502" style='border:none;'></iframe>
 # 💻 Tech Stack:
 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) <br> 
