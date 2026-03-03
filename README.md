@@ -1,5 +1,5 @@
 # 💫 About Me:
-[👨‍💻 Former DevOps Automation Engineer @ AstroByte & Working Towards DevSecOps <br>🔭Currently working on CVE Research & BugBounty Hunting<br>🚩Aiming for a Security+ Certificate & CyberDefenders<br>📍Aiming for a Junior Security Operations Center Analyst Job]
+👨‍💻Former DevOps Automation Engineer @ AstroByte & Working Towards DevSecOps<br>🏛️Founder & Chairman of SIM Cybersecurity Club🔭Currently working on Hardware & IOT Hacking<br>🚩Might aswell go for the OSCP screw Security+<br>📍Taking the SOC analyst bait L1.5 -> IR -> Threat Hunter<br>🕺Repos are mostly private cuz NDA so my profile is not even worth your time :p
 
 ![](https://komarev.com/ghpvc/?username=DasAutoIngenieur&color=blueviolet&style=for-the-badge&base=120)
 
